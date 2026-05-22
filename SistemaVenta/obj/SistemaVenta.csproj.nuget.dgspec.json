@@ -1,35 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafat\\ipgg\\VentasArre\\VentasArreglo\\SistemaVenta\\SistemaVenta.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\proyectoFinalGrupo1\\VentasArreglo\\SistemaVenta\\SistemaVenta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafat\\ipgg\\VentasArre\\VentasArreglo\\SistemaVenta\\SistemaVenta.csproj": {
+    "C:\\Users\\Usuario\\Documents\\proyectoFinalGrupo1\\VentasArreglo\\SistemaVenta\\SistemaVenta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafat\\ipgg\\VentasArre\\VentasArreglo\\SistemaVenta\\SistemaVenta.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\proyectoFinalGrupo1\\VentasArreglo\\SistemaVenta\\SistemaVenta.csproj",
         "projectName": "SistemaVenta",
-        "projectPath": "C:\\Users\\rafat\\ipgg\\VentasArre\\VentasArreglo\\SistemaVenta\\SistemaVenta.csproj",
-        "packagesPath": "C:\\Users\\rafat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafat\\ipgg\\VentasArre\\VentasArreglo\\SistemaVenta\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\proyectoFinalGrupo1\\VentasArreglo\\SistemaVenta\\SistemaVenta.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\proyectoFinalGrupo1\\VentasArreglo\\SistemaVenta\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 25.1\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rafat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 25.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 25.1\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
