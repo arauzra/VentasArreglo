@@ -1,0 +1,15 @@
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\bin\Debug\net10.0\SistemaVenta.exe
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\bin\Debug\net10.0\SistemaVenta.deps.json
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\bin\Debug\net10.0\SistemaVenta.runtimeconfig.json
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\bin\Debug\net10.0\SistemaVenta.dll
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\bin\Debug\net10.0\SistemaVenta.pdb
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\obj\Debug\net10.0\SistemaVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\obj\Debug\net10.0\SistemaVenta.AssemblyInfoInputs.cache
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\obj\Debug\net10.0\SistemaVenta.AssemblyInfo.cs
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\obj\Debug\net10.0\SistemaVenta.csproj.CoreCompileInputs.cache
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\obj\Debug\net10.0\SistemaVenta.sourcelink.json
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\obj\Debug\net10.0\SistemaVenta.dll
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\obj\Debug\net10.0\refint\SistemaVenta.dll
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\obj\Debug\net10.0\SistemaVenta.pdb
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\obj\Debug\net10.0\SistemaVenta.genruntimeconfig.cache
+C:\Users\rafat\ipgg\VentasArre\VentasArreglo\SistemaVenta\obj\Debug\net10.0\ref\SistemaVenta.dll
